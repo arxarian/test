@@ -1,0 +1,3 @@
+module items
+RailItem 1.0 RailItem.qml
+MarkerItem 1.0 MarkerItem.qml

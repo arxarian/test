@@ -1,0 +1,11 @@
+{
+    "files": [
+        "main.py",
+        "qml/Main.qml",
+        "qml/RunScreen.qml",
+        "qml/items/RailItem.qml",
+        "qml/items/MarkerItem.qml",
+        "qml/views/RailView.qml",
+        "qml/views/MarkerView.qml"
+    ]
+}
